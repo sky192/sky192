@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on web development projects
+- 🔭 I’m currently Collaborating on an EdTech startup to develop software products.
 - 🌱 I’m currently learning more details about Web Delopment
 - 🤔 I’m looking for a position as a Front-End Web Developer or Software Developer
 - 📫 How to reach me: 
