@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently collaborating on an EdTech startup to develop software products.
+- 🔭 I’m currently collaborating on an EdTech startup as an intern to develop software products.
 - 🌱 I’m currently learning more details about Web Delopment.
 - 🤔 I’m looking for a full-time position as a Front-End Developer.
 - 📫 : 
