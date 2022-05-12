@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently collaborating on an online Web
-App project for Restaurants as an frontend web developer intern.
+- 🔭 
 - 🌱 I’m currently learning more details about Web Delopment.
 - 🤔 I’m looking for a full-time position as a Front-End Developer.
 - 📫 : 
